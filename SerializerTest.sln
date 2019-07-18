@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidirectionalList", "BidirectionalList\BidirectionalList.csproj", "{4F768E45-E0FD-4549-A565-176FFC8053A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLTest", "BLTest\BLTest.csproj", "{A48B938A-DAE1-4A40-B9CE-FE3093EE5B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{FE39BFA8-6323-4AE4-AE81-F5D7BEC54868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F768E45-E0FD-4549-A565-176FFC8053A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F768E45-E0FD-4549-A565-176FFC8053A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F768E45-E0FD-4549-A565-176FFC8053A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F768E45-E0FD-4549-A565-176FFC8053A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48B938A-DAE1-4A40-B9CE-FE3093EE5B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48B938A-DAE1-4A40-B9CE-FE3093EE5B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48B938A-DAE1-4A40-B9CE-FE3093EE5B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48B938A-DAE1-4A40-B9CE-FE3093EE5B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE39BFA8-6323-4AE4-AE81-F5D7BEC54868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE39BFA8-6323-4AE4-AE81-F5D7BEC54868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE39BFA8-6323-4AE4-AE81-F5D7BEC54868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE39BFA8-6323-4AE4-AE81-F5D7BEC54868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {838F1C0B-5C3D-4B44-8C07-62513D769B7C}
+	EndGlobalSection
+EndGlobal
